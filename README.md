@@ -5,4 +5,4 @@ Ivanovna
 ISaT
 Software Development Technologies
 First year,First group,First subgroup
-chanhing file
+changing file
