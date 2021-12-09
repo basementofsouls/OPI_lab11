@@ -1,2 +1,7 @@
 # OPI_lab11
-lab number eleven
+Samsonik
+Anastasia
+Ivanovna
+ISaT
+Software Development Technologies
+First year, First group, First subgroup
